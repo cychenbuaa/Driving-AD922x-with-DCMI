@@ -1,4 +1,4 @@
-# Driving-AD922x-with-DCMI
+# Driving AD922x with DCMI
 Driving Extern High-speed ADC with STM32F4 DCMI
 ## 项目介绍
 对于一般的 MCU 来说，通常难以驱动外部的中高速（10MSPS~50MSPS）ADC，对于这类并行输出的 ADC，可以采用 FPGA 驱动等方案。但如果可以使用 MCU 直接驱动 ADC，并可以同时完成项目中其他需求，就可以达到降低系统成本、复杂度，缩短开发周期的目标。
