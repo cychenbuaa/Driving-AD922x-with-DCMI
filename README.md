@@ -7,7 +7,7 @@ Driving Extern High-speed ADC with STM32F4 DCMI
 ](http://www.analog.com/media/en/technical-documentation/data-sheets/AD9221_9223_9220.pdf)-10MSPS, [AD9224](http://www.analog.com/media/en/technical-documentation/data-sheets/AD9224.pdf)-40MSPS,该系列其他型号请参考 ADI 官网)
 
 ## 硬件
-见
+见 AD922x-DCMI.pdf
 
 ## 软件
 使用 ST 库函数 V1.8.0 版本编程，如需参考，可自行建立基于库函数的项目工程
